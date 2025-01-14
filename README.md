@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Resumo do livro A Singularidade Está Próxima de Ray Kurzweil ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de um breve resumo de 60 segundos com um breve resumo do livro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e D-iD
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi utilizado o ChatGPT para a criação do resumo e Di-D para criação do avatar e voz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue link com acesso ao video gerado por IA
+https://studio.d-id.com/share?id=007d979da2885f9b949de1db83fc17ba&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
